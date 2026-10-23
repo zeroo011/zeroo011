@@ -113,7 +113,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-zeroo011-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeroo011)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-00FF9F?style=for-the-badge&logo=gmail&logoColor=black)](mailto:vladislavdanko28@gmail.com)
 
 <sub>⚡ Designed in Cyberpunk Neon Terminal style • Automated with GitHub Actions</sub>
 
