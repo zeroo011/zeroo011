@@ -1,14 +1,24 @@
 <div align="center">
 
-# ⚡ ZERO // 011
+```text
+ ███████╗███████╗██████╗  ██████╗     ██████╗  ██╗ ██╗
+ ╚══███╔╝██╔════╝██╔══██╗██╔═══██╗   ██╔═████╗███║███║
+   ███╔╝ █████╗  ██████╔╝██║   ██║   ██║██╔██║╚██║╚██║
+  ███╔╝  ██╔══╝  ██╔══██╗██║   ██║   ████╔╝██║ ██║ ██║
+ ███████╗███████╗██║  ██║╚██████╔╝██╗╚██████╔╝ ██║ ██║
+ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝  ╚═╝ ╚═╝
+```
+
+# ⚡ ⟦ 0xZERO // 011 ⟧ ⚡
+### ▰▰▰ [ CYBER // NODE: 0xZERO ] ▰▰▰
 
 <a href="https://github.com/zeroo011">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=580&lines=%3E+zero%40system%3A~%24+whoami;%3E+Backend+%26+Automation+Engineer;%3E+Telegram+Bots+%26+Distributed+Apps;%3E+Vibecoding+in+progress...;%3E+Clean+code%2C+fast+IO%2C+zero+friction" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=620&lines=%3E+0xZERO%40cybernet%3A~%24+whoami;%3E+Identity%3A+z3r0_%5B011%5D;%3E+Role%3A+Backend+%26+Automation+Engineer;%3E+Specialty%3A+High-Speed+Bots;%3E+Mode%3A+Vibecoding+Active;%3E+Clean+code+%E2%80%A2+Fast+IO+%E2%80%A2+Zero+bloat" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-ONLINE-00FF9F?style=for-the-badge&logo=gnubash&logoColor=black" alt="System Online" />
-  <img src="https://img.shields.io/badge/Focus-Telegram%20Bots%20%26%20Backend-00B8FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Node-0xZERO-00FF9F?style=for-the-badge&logo=gnubash&logoColor=black" alt="Node 0xZERO" />
+  <img src="https://img.shields.io/badge/System-ONLINE-00B8FF?style=for-the-badge&logo=linux&logoColor=white" alt="System Online" />
   <img src="https://img.shields.io/badge/Vibe-Vibecoding-FF007F?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe" />
 </p>
 
@@ -19,9 +29,9 @@
 ### 💻 `/// SYSTEM_SPECIFICATIONS`
 
 ```bash
-╭─ zero@workstation ~
+╭─ 0xZERO@workstation ~
 ╰─$ neofetch --cyberpunk
-      /\_/\          USER      : zero (zeroo011)
+      /\_/\          USER      : 0xZERO (zeroo011)
      ( o.o )         ROLE      : Backend / Automation / Bot Developer
       > ^ <          OS        : Linux / Containerized (Docker)
      /     \         CORE      : Python, TypeScript, Bash, SQL
@@ -54,14 +64,19 @@
 
 ---
 
-### 🚀 `/// FEATURED_PROJECTS`
+### 🚀 `/// FEATURED_PROJECT`
 
 <div align="center">
 
+<a href="https://github.com/zeroo011/media-downloader-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroo011&repo=media-downloader-bot&theme=tokyonight&show_owner=false" alt="media-downloader-bot" />
+</a>
+
+<br/><br/>
+
 | Project | Description | Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 🤖 **[media-downloader-bot](https://github.com/zeroo011/media-downloader-bot)** | Universal high-speed Telegram media downloader bot (YouTube, TikTok, Instagram, VK, Twitter, Pinterest) with inline mode, MP3 extraction & Caddy SSL | `Python` `Docker` `Caddy` | 🟢 Active |
-| 🛡️ **[remnawave-STEALTHNET-Bot](https://github.com/zeroo011/remnawave-STEALTHNET-Bot)** | Client web portal with Admin Panel & automated subscription sales bot for Remnawave | `TypeScript` `Web` `Telegram` | 🟢 Active |
+| 🤖 **[media-downloader-bot](https://github.com/zeroo011/media-downloader-bot)** | Universal high-speed Telegram media downloader bot (YouTube, TikTok, Instagram, VK, Twitter, Pinterest) with Docker, inline mode, MP3 extraction & Caddy SSL | `Python` `Docker` `Caddy` | 🟢 Active |
 
 </div>
 
